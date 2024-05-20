@@ -1,6 +1,6 @@
 # Basic commands for running the project
 
-npm version used 10.2.4
+## npm version used for the project 10.2.4
 
 ### for GUI and headless mode , the first step is to install dependencies
 
